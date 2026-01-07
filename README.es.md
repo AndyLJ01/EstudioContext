@@ -71,3 +71,5 @@ $ vercel --prod
 ## Contribuidores
 
 Esta plantilla fue construida como parte del [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) de 4Geeks Academy por [Alejandro Sanchez](https://twitter.com/alesanchezr) y muchos otros contribuidores. Descubre más sobre nuestro [Curso de Desarrollador Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [Curso de data-science](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning) y [Curso de Ciberseguridad](https://4geeksacademy.com/es/coding-bootcamps/curso-ciberseguridad).
+
+Hasta la próxima programador.
